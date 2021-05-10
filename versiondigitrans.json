@@ -1,10 +1,9 @@
 {
-    "latestVersion": "4.0",
-    "latestVersionCode": "4",
+    "latestVersion": "5.0",
+    "latestVersionCode": "5",
     "url": "https://apps.digitrans.co.id/digitrans.apk",
     "releaseNotes": [
-        "- This is the first release notes.",
-        "- This is the second release notes.",
-        "- This is the third release notes."
+        "Silahkan tekan tombol update untuk download apk terbaru (Download, Install, Tunggu sampai selesai)"
+
     ]
 }
